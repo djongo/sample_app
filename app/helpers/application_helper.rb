@@ -2,7 +2,6 @@
 module ApplicationHelper
 
   def logo
-#<% logo = image_tag("logo.png", :alt => "Sample App", :class => "round") %>
     logo = image_tag("logo.png", :alt => "Sample App", :class => "round")
   end
   
